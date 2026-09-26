@@ -1,0 +1,16 @@
+# Private chat exports and data
+WhatsApp Chat with Mahiya.zip
+chat_extracted/
+*.vcf
+*.txt
+
+# Old template photos
+photo_2026-*.jpg
+
+# Temporary helper scripts
+*.py
+__pycache__/
+
+# OS files
+.DS_Store
+Thumbs.db
